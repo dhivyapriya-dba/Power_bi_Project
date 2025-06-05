@@ -1,0 +1,58 @@
+# 📊 Sales Insight Dashboard
+
+This Power BI dashboard provides a comprehensive overview of sales performance, revenue, and customer analysis from 2017 to 2020. It helps users gain insights into key business metrics and make data-driven decisions.
+
+---
+
+## ✨ Key Features
+
+- **Revenue Analysis:** Visualizes total revenue by customer name and date.
+- **Sales Quantity:** Displays total sales quantity by customer name.
+- **Revenue by Zone:** Highlights revenue distribution across different zones.
+- **Market Code Insights:** Shows sales amounts by market code and highlights the top 5 revenue-generating markets.
+- **Dynamic Year Filter:** Allows users to filter visuals by year for easy comparison.
+
+---
+
+## 📁 Files Included
+
+- `sales_insight.pbix` — The Power BI dashboard file.
+- `sales_data.sql` — The SQL file containing the data source.
+- `README.md` — This documentation file.
+
+---
+
+## 🛠️ How to Use
+
+1. Download the `sales_insight.pbix` and `sales_data.sql` files.
+2. Restore or import the `sales_data.sql` file into your local SQL Server (or other supported RDBMS).
+3. Open the Power BI file in **Power BI Desktop**.
+4. Update the data source connection to your local database.
+5. Interact with visuals and slicers to explore the data.
+
+---
+
+## 🔗 Data Source
+
+- [`sales_data.sql`](./sales_data.sql) — Contains SQL statements to create and populate the database with sample sales data.
+  - **Note:** If using your own data, modify the SQL file accordingly.
+  - **Disclaimer:** The sample data provided is for demonstration purposes only.
+
+---
+
+## 🚀 Future Improvements
+
+- Add dynamic tooltips for more interactive analysis.
+- Implement drill-through functionality.
+- Integrate real-time data refresh.
+- Enhance with advanced DAX calculations.
+
+---
+
+## 📬 Contact
+
+If you have any questions or feedback, please open an issue or reach out via GitHub.
+
+---
+
+**Happy Exploring! 🚀**
