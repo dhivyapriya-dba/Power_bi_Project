@@ -14,7 +14,7 @@ This Power BI dashboard provides insights into institute performance by analyzin
 
 ## 🖼️ Dashboard Screenshot
 
-![Complete Dashboard](Power_Bi_Project.png)
+(https://drive.google.com/file/d/1dg5wylh1KFq4vQpFyLvsmOw5I5RXWh0B/view?usp=sharing)
 *All charts combined in one interactive dashboard*
 
 ---
