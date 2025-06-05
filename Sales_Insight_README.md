@@ -59,7 +59,7 @@ Download the sample SQL file from Google Drive:
 5. Select the relevant tables: CUSTOMER, DATE, MARKET, PRODUCT, and TRANSACTION.  
 6. Click **Load** to import the data.  
 7. Define relationships between the tables if needed.  
-   ![Power BI connect to MySQL](images/powerbi-connect-mysql.png)
+   (https://drive.google.com/file/d/1FPWVVCpciNXvqjGYiObcwMCx7tQ_RssD/view?usp=sharing)
 
 ---
 
