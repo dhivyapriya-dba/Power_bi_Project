@@ -18,7 +18,8 @@ This Power BI dashboard provides an interactive overview of sales performance, r
 
 - `sales_insight.pbix` — The Power BI dashboard file.  (https://drive.google.com/file/d/1ZBPR2Uu3OyCfJvv_io2nTrQxCWjQpd3y/view?usp=drive_link)
 - `README.md` — This documentation file.  
-- `sales_dinsight_Relationship` — (https://drive.google.com/file/d/1FPWVVCpciNXvqjGYiObcwMCx7tQ_RssD/view?usp=sharing)
+- `sales_insight_Relationship` — (https://drive.google.com/file/d/1FPWVVCpciNXvqjGYiObcwMCx7tQ_RssD/view?usp=sharing)
+- sales_insight_DEMO-(https://drive.google.com/file/d/1HyLmfBG4F4l-KgA9OCtinSBSApBuBOXX/view?usp=drive_link)
 
 ---
 
